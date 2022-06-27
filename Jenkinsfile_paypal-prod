@@ -34,10 +34,4 @@ Kongit Technologies''', recipientProviders: [buildUser(), developers(), contribu
  }
 
 }  
-==============================================
-single line comment = // 
-Multi line comment = /*  */
 
-/*  
-
-*/
