@@ -16,6 +16,7 @@ node{
  stage('4UploadArtifacts'){
     sh "${mavenHome}/bin/mvn deploy"
  } 
+ /*
    stage('5deploy_uat'){
     //sh "scp "
     deploy adapters: [tomcat9(credentialsId: 'tomcat-credentials', path: '', url: 'http://44.202.3.194:8080/')], contextPath: null, war: 'target/*war'
@@ -35,5 +36,5 @@ node{
 Regards;
 Kongit Technologies''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build status', to: 'paypal-team@gmail.com'
  }
-
+*/
 }  
