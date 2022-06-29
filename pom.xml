@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.54.157:8081/repository/paypal-release/</url>
+	      <url>http://18.207.234.145:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.54.157:8081/repository/paypal-snapshot/</url>
+	      <url>http://18.207.234.145:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
