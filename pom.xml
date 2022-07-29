@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Snapshot Nexus Repository</name>
-	      <url>http://44.203.44.107:4000/repository/ebay-bts-snapshot/</url>
+	      <url>http://172.31.94.208:4000/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
